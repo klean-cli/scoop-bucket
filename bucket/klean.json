@@ -4,7 +4,7 @@
     "homepage": "https://github.com/danil0ws/klean",
     "license": "MIT OR Apache-2.0",
     "url": "https://github.com/danil0ws/klean/releases/download/v1.5.2/klean-v1.5.2-x86_64-pc-windows-msvc.zip",
-    "hash": "2821454b40a77b138030422fe64e60a7d8e3e0f1b7b551a3fd6d79e0d3b36ab1",
+    "hash": "37e2fcf3cd1d87ea48c2c6f264da275fc167d675388d43d6d256aad253830696",
     "bin": "klean.exe",
     "checkver": "github",
     "autoupdate": {
