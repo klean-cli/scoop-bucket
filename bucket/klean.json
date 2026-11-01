@@ -1,10 +1,10 @@
 {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "description": "Safe, efficient CLI for cleaning development environments",
     "homepage": "https://github.com/danil0ws/klean",
     "license": "MIT OR Apache-2.0",
-    "url": "https://github.com/danil0ws/klean/releases/download/v1.6.0/klean-v1.6.0-x86_64-pc-windows-msvc.zip",
-    "hash": "b0b25d8a07207812a38eb21409c7666352b394915fbbbbbe52ea752478a45455",
+    "url": "https://github.com/danil0ws/klean/releases/download/v1.7.0/klean-v1.7.0-x86_64-pc-windows-msvc.zip",
+    "hash": "1b779839d89c0cc7fe8dbf9c71f9785fd8ffc57c0ba41ca249ec2bad816e3480",
     "bin": "klean.exe",
     "checkver": "github",
     "autoupdate": {
